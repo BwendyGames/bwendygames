@@ -8,4 +8,3 @@ My name is Brendon, but I go by Bwendy online. I've been making video games for 
 - 📫 How to reach me: bwendyboo on discord, or bwendydev@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I never learned how to a ride a bike. This was foreshadowing to the fact that I don't know how to do anything correctly, conversely, I know how to do everything incorrectly. Everything. 
--->
