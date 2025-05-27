@@ -8,3 +8,5 @@ My name is Brendon, but I go by Bwendy online. I've been making video games for 
 - 📫 How to reach me: bwendyboo on discord, or bwendydev@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I never learned how to a ride a bike. This was foreshadowing to the fact that I don't know how to do anything correctly. Conversely, I know how to do everything incorrectly. Everything. 
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'A0A51DZLV7');kofiwidget2.draw();</script> 
